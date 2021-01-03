@@ -1,4 +1,5 @@
-#!/bin/bash -eou 
+#!/usr/bin/env bash
+set -eou
 
 repo=$1
 target=$2
